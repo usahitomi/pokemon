@@ -1,0 +1,35 @@
+.container {
+  border: 2px solid blue;
+  width: 500px;
+  height: 600px;
+  margin: 0 auto;  
+}
+
+.container h1 {
+  text-align: center;
+  color: rgb(241, 208, 16);
+  font-size: 40px;
+}
+
+.type {
+  text-align: center;
+}
+
+button {
+  width: 96px;
+  height: 50px;
+  margin: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  background: #d8d8d8;
+}
+
+.text {
+  outline: 2px solid black;
+  height: 50px;
+  width: 450px;
+  margin: 20px auto;
+  padding-top: 20px;
+  font-size: 20px;
+}
+
